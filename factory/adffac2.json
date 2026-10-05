@@ -1,0 +1,15 @@
+{
+	"name": "adffac2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4dcec8f-819d-4e8a-a19b-b0005e41108f",
+		"tenantId": "2b82aa8e-9c89-4cbf-99a4-7280e6b87e83"
+	}
+}
